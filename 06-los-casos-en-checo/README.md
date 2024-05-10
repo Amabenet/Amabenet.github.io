@@ -23,8 +23,6 @@ LOS CASOS EN CHECO
 6. Locativo
 7. Instrumental
 
-![Alfabeto checo](images/abc.jpg)
-
 ## Diapositiva 3 
 
 LOS CASOS EN CHECO: 
