@@ -1,6 +1,6 @@
 # Mini Guía de conversación en checo
 
-![mujeres hablando](https://cdn.pixabay.com/photo/2017/08/01/20/52/people-2567915_1280.jpg)
+![mujeres hablando](https://images.unsplash.com/photo-1603202662706-62ead3176b8f?q=80&w=3069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 En esta guía te ofrecemos unas nociones básicas para que puedas mantener una conversación sencilla en checo. 
 
