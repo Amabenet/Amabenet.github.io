@@ -1,4 +1,4 @@
-![Guia de checo para principiantes](./images/rodrigo-ardilha-WAPFd4fMy2o-unsplash)
+![Guia de checo para principiantes](https://unsplash.com/es/fotos/foto-de-un-barco-en-un-cuerpo-de-agua-cerca-de-edificios-de-gran-altura-WAPFd4fMy2o)
 
 ### Breves recursos para iniciarte en el idioma checo
 
