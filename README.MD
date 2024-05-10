@@ -1,8 +1,8 @@
-![Guia de checo para principiantes](https://images.unsplash.com/photo-1458150945447-7fb764c11a92?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+# Guía de checo para prinicpiantes
 
 ### Breves recursos para iniciarte en el idioma checo
 
-# Guía de checo para prinicpiantes
+![Guia de checo para principiantes](https://images.unsplash.com/photo-1458150945447-7fb764c11a92?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Curso básico de checo - nivel cero patatero.
 
