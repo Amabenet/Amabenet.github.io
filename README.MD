@@ -8,7 +8,7 @@ Curso básico de checo - nivel cero patatero.
 
 ## 🌱 Para empezar
 
-Esta guía se compone de 7 temas, cada uno de los cuales explica brevemente un tema específico del idioma checo. Puedes trabajar a tu ritmo.
+Esta guía se compone de 6 temas, cada uno de los cuales explica brevemente un tema específico del idioma checo. Puedes trabajar a tu ritmo.
 
 **What You Need**
 
@@ -23,9 +23,8 @@ No te olvides de seguir este repo [dale(🌟) a la estrellita](https://docs.gith
 |  | Enlace del tema | Descripción |
 |--|--|--|
 | 01 | [Primeros pasos](https://github.com/Amabenet/Amabenet.github.io/blob/main/01-primeros-pasos) | **Qué aprendes:** Tips elementales para aprender checo |
-| 02 | [Moverse por Praga](Guia-checo-principiantes/02-moverse-por-praga) | **Qué aprendes:** vocabulario básico para moverte por la geografía checa, sobretodo Praga. |
-| 03 | [Alojmiento y restaurantes](Guia-checo-principiantes/03-alojamiento-y-restaurantes) | **Qué aprendes:** Vocabulario específico para poder alojarte y salir a tomar algo en la República Checa |
-| 04 | [Mini guía de conversación](Guia-checo-principiantes/04-mini-guia-de-conversacion) | **Qué aprendes:** Nociones elementales para mantener una pequeña conversación en checo |
-| 05 |  [Navidad en la República Checa](Guia-checo-principiantes/05-navidad-en-la-republica-checa.md)|  **Qué aprendes:** Vocabulario básico y costumbres de las festividades navideñas en la República Checa |
-| 06 | [Los casos en checo](Guia-checo-principiantes/06-los-casos-en-checo) |  **Qué aprendes:** Enteder los casos en checho y algunos ejemplos |
-| 07 |[Escape Room: La maleta perdida](Guia-checo-principiantes/07-escape-room-La-maleta-perdida.html)  |  **Qué aprendes:** Practicas el idioma checo divirtiéndote con un juego |     
+| 02 | [Moverse por Praga](https://github.com/Amabenet/Amabenet.github.io/tree/main/02-moverse-por-praga) | **Qué aprendes:** vocabulario básico para moverte por la geografía checa, sobretodo Praga. |
+| 03 | [Alojmiento y restaurantes](https://github.com/Amabenet/Amabenet.github.io/tree/main/03-alojamiento%20y%20restaurantes) | **Qué aprendes:** Vocabulario específico para poder alojarte y salir a tomar algo en la República Checa |
+| 04 | [Mini guía de conversación](https://github.com/Amabenet/Amabenet.github.io/tree/main/04-mini-guia-de-conversacion) | **Qué aprendes:** Nociones elementales para mantener una pequeña conversación en checo |
+| 05 |  [Navidad en la República Checa](https://github.com/Amabenet/Amabenet.github.io/tree/main/05-navidad-en-la-republica-checa)|  **Qué aprendes:** Vocabulario básico y costumbres de las festividades navideñas en la República Checa |
+| 06 | [Los casos en checo](https://github.com/Amabenet/Amabenet.github.io/tree/main/06-los-casos-en-checo) |  **Qué aprendes:** Enteder los casos en checho y algunos ejemplos |   
