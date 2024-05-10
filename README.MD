@@ -22,7 +22,7 @@ No te olvides de seguir este repo [dale(🌟) a la estrellita](https://docs.gith
 
 |  | Enlace del tema | Descripción |
 |--|--|--|
-| 01 | [Primeros pasos](Guia-checo-principiantes/01-primeros-pasos) | **Qué aprendes:** Tips elementales para aprender checo |
+| 01 | [Primeros pasos](https://github.com/Amabenet/Amabenet.github.io/blob/main/01-primeros-pasos) | **Qué aprendes:** Tips elementales para aprender checo |
 | 02 | [Moverse por Praga](Guia-checo-principiantes/02-moverse-por-praga) | **Qué aprendes:** vocabulario básico para moverte por la geografía checa, sobretodo Praga. |
 | 03 | [Alojmiento y restaurantes](Guia-checo-principiantes/03-alojamiento-y-restaurantes) | **Qué aprendes:** Vocabulario específico para poder alojarte y salir a tomar algo en la República Checa |
 | 04 | [Mini guía de conversación](Guia-checo-principiantes/04-mini-guia-de-conversacion) | **Qué aprendes:** Nociones elementales para mantener una pequeña conversación en checo |
