@@ -80,7 +80,7 @@ Os dejamos también este enlace sobre los [números en checo](https://www.jezy.n
 
 ## 2. Expresiones básicas
 
-![gente estudiando](https://cdn.pixabay.com/photo/2017/07/31/11/21/people-2557396_1280.jpg)
+![gente estudiando](https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Ahora que hemos visto como presentarnos, os dejamos una tabla con algunas palabras y expresiones básicas, esenciales para la comunicación.
 
