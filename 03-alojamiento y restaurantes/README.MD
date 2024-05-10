@@ -1,6 +1,6 @@
 # Alojamiento y restaurantes
 
-![Ciudad Praga](https://cdn.pixabay.com/photo/2017/02/21/18/24/prague-2086967_1280.jpg)
+![Ciudad Praga](https://images.unsplash.com/photo-1503410781609-75b1d892dd28?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 En este capítulo, podrás consultar y aprender algunas expresiones y palabras importantes a la hora de hacer una reserva en un alojamiento, o si, por ejemplo, vas a salir a tomar algo por la ciudad.
 
@@ -11,7 +11,7 @@ Recuerda que puedes consultar otros recursos para aprender checo y un mapa de Pr
 1. **Reservar alojamiento**
 Es probable que puedas entenderte bien en inglés en los hoteles de la ciudad, pero también puede ser una buena ocasión para practicar el idioma local y vivir una nueva experiencia. Aquí te mostramos algunas expresiones muy útiles para utilizar al  buscar alojamiento o una vez estés allí.
 
-![Hotel Praga](https://cdn.pixabay.com/photo/2013/12/11/18/53/neumarkt-226900_960_720.jpg)
+![Hotel Praga](https://images.unsplash.com/photo-1526996970093-36148727de98?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 | Español | Checo |
 |--|--|
@@ -37,7 +37,7 @@ En esta ocasión vamos a ver el vocabulario específico para ir a comer a un res
 Para ello, primero veremos como se dicen las comidas más típicas o habituales y después veremos el vocabulario de las bebidas. De esta manera, después podremos entender mejor el menú.
 Finalmente veremos el vocabulario relacionado con la comunicación en le propio restaurante.
 
-![restaurante Praga](https://cdn.pixabay.com/photo/2016/07/20/09/41/restaurant-1530014_1280.jpg)
+![restaurante Praga](https://images.unsplash.com/photo-1578165345760-3a2d7f7c1a31?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 - **Comida**
 Veamos algunos platos típicos que podemos encontrar en los menús de los restaurantes checos:
