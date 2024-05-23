@@ -8,11 +8,11 @@ Curso básico de checo - nivel cero patatero.
 
 ## 🌱 Para empezar
 
-Te invitamos a ver [esta](file:///Users/amandabenetalfonso/Documents/GitHub/Amabenet.github.io/A1-presentacion-curso/index.html#/title-slide) presentación interactiva.
+Te invitamos a ver [esta](https://github.com/Amabenet/Amabenet.github.io/tree/main/A1-presentacion-curso) presentación interactiva.
 
 Esta guía se compone de 6 temas, cada uno de los cuales explica brevemente un tema específico del idioma checo. Puedes trabajar a tu ritmo.
 
-**What You Need**
+**Qué necesitarás**
 
 - Ganas de aprender
 - Un ordenador con acceso a internet
