@@ -30,3 +30,4 @@ No te olvides de seguir este repo [dale(🌟) a la estrellita](https://docs.gith
 | 04 | [Mini guía de conversación](https://github.com/Amabenet/Amabenet.github.io/tree/main/04-mini-guia-de-conversacion) | **Qué aprendes:** Nociones elementales para mantener una pequeña conversación en checo |
 | 05 |  [Navidad en la República Checa](https://github.com/Amabenet/Amabenet.github.io/tree/main/05-navidad-en-la-republica-checa)|  **Qué aprendes:** Vocabulario básico y costumbres de las festividades navideñas en la República Checa |
 | 06 | [Los casos en checo](https://github.com/Amabenet/Amabenet.github.io/tree/main/06-los-casos-en-checo) |  **Qué aprendes:** Enteder los casos en checho y algunos ejemplos |   
+| 07 | [Ejercita jugando](https://github.com/Amabenet/Amabenet.github.io/tree/main/A2-ejercicio-Twine) |  **Qué aprendes:** pones a prueba tus conocimientos de checo y tu habilidad para moverte en un aeropuerto |   
